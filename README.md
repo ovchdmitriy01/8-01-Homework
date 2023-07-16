@@ -118,8 +118,6 @@
 <a href="https://ibb.co/2ccJJ18"><img src="https://i.ibb.co/2ccJJ18/8-1-3-5-1.png" alt="8-1-3-5-1" border="0"></a>
 <a href="https://ibb.co/MPbLXbs"><img src="https://i.ibb.co/MPbLXbs/8-1-3-5-2.png" alt="8-1-3-5-2" border="0"></a>
 
-В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
-
 [Ссылка](https://github.com/ovchdmitriy01/my-first-github2/network)
 
 
